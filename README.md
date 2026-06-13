@@ -10,14 +10,6 @@ Computational biology and bioinformatics focused on genomic data analysis and re
 * Evolutionary genomics and phylogenetics
 * Computational pipelines for biological data
 
-## Current Work
-
-Building and exploring analysis workflows for high-throughput sequencing data, with emphasis on:
-
-* Reproducibility
-* Biological interpretability
-* Scalable computational methods
-
 ## Featured Projects
 
 * **RNA-seq analysis pipeline** — differential expression and functional enrichment workflows
@@ -26,7 +18,7 @@ Building and exploring analysis workflows for high-throughput sequencing data, w
 
 ## Technical Stack
 
-Python • R • Bash • Linux • Biopython • Pandas • NumPy • Jupyter • Nextflow (optional if you use it)
+Python • R • Bash • Linux • Biopython • Pandas • NumPy • Jupyter • Nextflow
 
 ## Approach
 
