@@ -1,4 +1,3 @@
-## Hi there 👋
 ## C-Oktay
 
 Computational biology and bioinformatics focused on genomic data analysis and reproducible scientific workflows.
